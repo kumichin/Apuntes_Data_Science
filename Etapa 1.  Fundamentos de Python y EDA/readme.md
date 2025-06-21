@@ -1,4 +1,4 @@
-# 📚 Etapa 1: Fundamentos de Python y Exploración de Datos (EDA) 🐍📊
+#  Etapa 1: Fundamentos de Python y Exploración de Datos (EDA) 🐍📊
 
 ¡Bienvenido/a a la primera y fundamental etapa de mi viaje hacia la ciencia de datos! Aquí es donde todo comienza: sentando las bases con Python y descubriendo cómo transformar datos brutos en *insights* significativos.
 
