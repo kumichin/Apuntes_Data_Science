@@ -27,7 +27,7 @@ Aquí encontrarás los cuadernos organizados cronológicamente y por tema. Cada 
 * `Dia_1_Que_es_la_ciencia_de_datos_y_primeras_lineas.ipynb`: Mis primeros pasos, definiendo el rol del científico de datos y escribiendo mis primeras líneas de Python y Pandas.
 * `Dia_2_Cómo_explorar_un_dataset.ipynb`: Exploración inicial de datos, cargando, inspeccionando y filtrando datasets para obtener una primera comprensión.
 * `Día_3_Agrupar_resumir_y_visualizar_con_estilo.ipynb`: Agrupación y resumen de datos con `groupby()`, y visualización efectiva para desvelar patrones.
-* `[Nombre del Siguiente Cuaderno].ipynb`: Visualizaciones básicas con Matplotlib y Seaborn: entendiendo distribuciones.
+* `Día_4_Exploración_creativa_de_datos_con_pandas_seleccionando,_filtrando_y_comprendiendo.ipynb`: Visualizaciones básicas con Matplotlib y Seaborn: entendiendo distribuciones.
 * `[Nombre del Siguiente Cuaderno].ipynb`: Análisis exploratorio de datos de un dataset real: descubriendo *insights*.
 * ... y muchos más a medida que avanzaba en esta etapa.
 
