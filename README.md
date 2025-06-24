@@ -1,4 +1,4 @@
-# 🚀 Mi Viaje para Convertirme en una gran Cientifica de Datos 🚀
+#  Mi Viaje para Convertirme en una gran Cientifica de Datos 
 
 ¡Bienvenido/a a mi espacio de aprendizaje y exploración en el apasionante mundo de la Ciencia de Datos!
 
