@@ -28,8 +28,8 @@ Aquí encontrarás los cuadernos organizados cronológicamente y por tema. Cada 
 * `Dia_2_Cómo_explorar_un_dataset.ipynb`: Exploración inicial de datos, cargando, inspeccionando y filtrando datasets para obtener una primera comprensión.
 * `Día_3_Agrupar_resumir_y_visualizar_con_estilo.ipynb`: Agrupación y resumen de datos con `groupby()`, y visualización efectiva para desvelar patrones.
 * `Día_4_Exploración_creativa_de_datos_con_pandas_seleccionando,_filtrando_y_comprendiendo.ipynb`: Exploración creativa de datos con Pandas: selección, filtrado y comprensión avanzada de datos con un dataset.
-* `[Nombre del Siguiente Cuaderno].ipynb`: Análisis exploratorio de datos de un dataset real: descubriendo *insights*.
-* ... y muchos más a medida que avanzaba en esta etapa.
+* `Día_5_Limpieza_de_Datos_Purificando_la_Verdad_Oculta.ipynb`: Dominando la limpieza de datos básica: detectando, corrigiendo y transformando datos caóticos para prepararlos para análisis y modelos.
+* 
 
 ---
 
