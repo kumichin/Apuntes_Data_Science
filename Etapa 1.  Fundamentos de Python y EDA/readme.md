@@ -29,7 +29,7 @@ Aquí encontrarás los cuadernos organizados cronológicamente y por tema. Cada 
 * `Día_3_Agrupar_resumir_y_visualizar_con_estilo.ipynb`: Agrupación y resumen de datos con `groupby()`, y visualización efectiva para desvelar patrones.
 * `Día_4_Exploración_creativa_de_datos_con_pandas_seleccionando,_filtrando_y_comprendiendo.ipynb`: Exploración creativa de datos con Pandas: selección, filtrado y comprensión avanzada de datos con un dataset.
 * `Día_5_Limpieza_de_Datos_Purificando_la_Verdad_Oculta.ipynb`: Dominando la limpieza de datos básica: detectando, corrigiendo y transformando datos caóticos para prepararlos para análisis y modelos.
-* 
+* `Día_6_Introducción_a_la_Selección_de_Datos_con_pandas_(Indexing_y_Slicing)_y_Limpieza_de_datos_reales.ipynb`: Dominando la selección de datos con `iloc` y `loc`, y aplicando técnicas de limpieza de datos en un dataset del mundo real.
 
 ---
 
