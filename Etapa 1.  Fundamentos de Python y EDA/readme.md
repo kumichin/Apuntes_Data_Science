@@ -33,7 +33,7 @@ Aquí encontrarás los cuadernos organizados cronológicamente y por tema. Cada 
 
 ---
 
-## ✅ Estado Actual: ¡Completado y Consolidado!
+## ✅ Estado Actual: ¡Completado y Consolidado! ( Aunque esta etapa la he terminado, aún estoy en proceso de subir la totalidad de los apuntes)
 
 He finalizado exitosamente esta etapa y ahora estoy en una fase de consolidación, aplicando activamente estos conocimientos en proyectos prácticos para ganar fluidez y experiencia, simulando escenarios laborales reales.
 
