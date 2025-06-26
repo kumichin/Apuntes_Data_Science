@@ -30,7 +30,7 @@ Aquí encontrarás los cuadernos organizados cronológicamente y por tema. Cada 
 * `Día_4_Exploración_creativa_de_datos_con_pandas_seleccionando,_filtrando_y_comprendiendo.ipynb`: Exploración creativa de datos con Pandas: selección, filtrado y comprensión avanzada de datos con un dataset.
 * `Día_5_Limpieza_de_Datos_Purificando_la_Verdad_Oculta.ipynb`: Dominando la limpieza de datos básica: detectando, corrigiendo y transformando datos caóticos para prepararlos para análisis y modelos.
 * `Día_6_Introducción_a_la_Selección_de_Datos_con_pandas_(Indexing_y_Slicing)_y_Limpieza_de_datos_reales.ipynb`: Dominando la selección de datos con `iloc` y `loc`, y aplicando técnicas de limpieza de datos en un dataset del mundo real.
-
+* `Día_7_–_Selección_Avanzada_de_Datos_leyendo_los_secretos_ocultos_del_dataset_mitológico_🏛️✨.ipynb`: Profundización en la selección avanzada de datos con Pandas, incluyendo condiciones simples y múltiples, el uso de `.isin()`, `.between()`, `.loc[]`, `.iloc[]`, y ordenamiento con `.sort_values()`, todo aplicado a un dataset mitológico.
 ---
 
 ## ✅ Estado Actual: ¡Completado y Consolidado! ( Aunque esta etapa la he terminado, aún estoy en proceso de subir la totalidad de los apuntes)
