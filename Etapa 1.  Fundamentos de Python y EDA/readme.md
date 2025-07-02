@@ -24,7 +24,7 @@ En esta etapa, me he enfocado en los siguientes pilares:
 
 Aquí encontrarás los cuadernos organizados cronológicamente y por tema. Cada `notebook` está diseñado para ser una unidad de aprendizaje autónoma, con explicaciones claras, código comentado y resultados visibles.
 
-* `Dia_1_Que_es_la_ciencia_de_datos_y_primeras_lineas.ipynb`: Mis primeros pasos, definiendo el rol del científico de datos y escribiendo mis primeras líneas de Python y Pandas.
+* [`Dia_1_Que_es_la_ciencia_de_datos_y_primeras_lineas.ipynb`](https://github.com/kumichin/Apuntes_Data_Science/blob/main/Etapa%201.%20%20Fundamentos%20de%20Python%20y%20EDA/Dia_1_Que_es_la_ciencia_de_datos_y_primeras_lineas.ipynb): Mis primeros pasos, definiendo el rol del científico de datos y escribiendo mis primeras líneas de Python y Pandas.
   
 * `Dia_2_Cómo_explorar_un_dataset.ipynb`: Exploración inicial de datos, cargando, inspeccionando y filtrando datasets para obtener una primera comprensión.
   
