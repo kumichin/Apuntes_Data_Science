@@ -24,13 +24,13 @@ En esta etapa, me he enfocado en los siguientes pilares:
 
 Aquí encontrarás los cuadernos organizados cronológicamente y por tema. Cada `notebook` está diseñado para ser una unidad de aprendizaje autónoma, con explicaciones claras, código comentado y resultados visibles.
 
-* [`Dia_1_Que_es_la_ciencia_de_datos_y_primeras_lineas.ipynb`](https://github.com/kumichin/Apuntes_Data_Science/blob/main/Etapa%201.%20%20Fundamentos%20de%20Python%20y%20EDA/Dia_1_Que_es_la_ciencia_de_datos_y_primeras_lineas.ipynb): Mis primeros pasos, definiendo el rol del científico de datos y escribiendo mis primeras líneas de Python y Pandas.
+* [`Dia_1_Que_es_la_ciencia_de_datos_y_primeras_lineas.ipynb`](https://github.com/kumichin/Apuntes_Data_Science/blob/main/Etapa%201.%20%20Fundamentos%20de%20Python%20y%20EDA/Dia_01_Que_es_la_ciencia_de_datos_y_primeras_lineas.ipynb): Mis primeros pasos, definiendo el rol del científico de datos y escribiendo mis primeras líneas de Python y Pandas.
   
-* [`Dia_2_Cómo_explorar_un_dataset.ipynb`](https://github.com/kumichin/Apuntes_Data_Science/blob/main/Etapa%201.%20%20Fundamentos%20de%20Python%20y%20EDA/Dia_2_C%C3%B3mo_explorar_un_dataset.ipynb): Exploración inicial de datos, cargando, inspeccionando y filtrando datasets para obtener una primera comprensión.
+* [`Dia_2_Cómo_explorar_un_dataset.ipynb`](https://github.com/kumichin/Apuntes_Data_Science/blob/main/Etapa%201.%20%20Fundamentos%20de%20Python%20y%20EDA/D%C3%ADa_02_C%C3%B3mo_explorar_un_dataset.ipynb): Exploración inicial de datos, cargando, inspeccionando y filtrando datasets para obtener una primera comprensión.
   
-* [`Día_3_Agrupar_resumir_y_visualizar_con_estilo.ipynb`](https://github.com/kumichin/Apuntes_Data_Science/blob/main/Etapa%201.%20%20Fundamentos%20de%20Python%20y%20EDA/D%C3%ADa_3_Agrupar%2C_resumir_y_visualizar_con_estilo.ipynb): Agrupación y resumen de datos con `groupby()`, y visualización efectiva para desvelar patrones.
+* [`Día_3_Agrupar_resumir_y_visualizar_con_estilo.ipynb`](https://github.com/kumichin/Apuntes_Data_Science/blob/main/Etapa%201.%20%20Fundamentos%20de%20Python%20y%20EDA/D%C3%ADa_03_Agrupar%2C_resumir_y_visualizar_con_estilo.ipynb): Agrupación y resumen de datos con `groupby()`, y visualización efectiva para desvelar patrones.
   
-* [`Día_4_Exploración_creativa_de_datos_con_pandas_seleccionando,_filtrando_y_comprendiendo.ipynb`](https://github.com/kumichin/Apuntes_Data_Science/blob/main/Etapa%201.%20%20Fundamentos%20de%20Python%20y%20EDA/D%C3%ADa_4_Exploraci%C3%B3n_creativa_de_datos_con_pandas_seleccionando%2C_filtrando_y_comprendiendo.ipynb): Exploración creativa de datos con Pandas: selección, filtrado y comprensión avanzada de datos con un dataset.
+* [`Día_4_Exploración_creativa_de_datos_con_pandas_seleccionando,_filtrando_y_comprendiendo.ipynb`](https://github.com/kumichin/Apuntes_Data_Science/blob/main/Etapa%201.%20%20Fundamentos%20de%20Python%20y%20EDA/D%C3%ADa_04_Exploraci%C3%B3n_creativa_de_datos_con_pandas_seleccionando%2C_filtrando_y_comprendiendo.ipynb): Exploración creativa de datos con Pandas: selección, filtrado y comprensión avanzada de datos con un dataset.
   
 * [`Día_5_Limpieza_de_Datos_Purificando_la_Verdad_Oculta.ipynb`](https://github.com/kumichin/Apuntes_Data_Science/blob/main/Etapa%201.%20%20Fundamentos%20de%20Python%20y%20EDA/D%C3%ADa_5_Limpieza_de_Datos_Purificando_la_Verdad_Oculta.ipynb): Dominando la limpieza de datos básica: detectando, corrigiendo y transformando datos caóticos para prepararlos para análisis y modelos.
   
@@ -43,6 +43,9 @@ Aquí encontrarás los cuadernos organizados cronológicamente y por tema. Cada 
 * [`Dia_9_Transformaciones_por_grupo_y_visualización_estadística.ipynb`](https://github.com/kumichin/Apuntes_Data_Science/blob/main/Etapa%201.%20%20Fundamentos%20de%20Python%20y%20EDA/D%C3%ADa_9_Transformaciones_por_grupo_y_visualizaci%C3%B3n_de_estad%C3%ADsticas.ipynb): Exploración de transformaciones avanzadas por grupo utilizando métodos como `.transform()` y `.apply()` para modificar datos agrupados. También abordo técnicas de visualización estadística para interpretar resultados, incluyendo histogramas, boxplots y gráficos de barras, con el fin de extraer insights relevantes y comunicar los hallazgos de forma efectiva.
 
 * [`Dia_10_Análisis_exploratorio_con_dataset_mediano_Doctor_Who.ipynb`](https://github.com/kumichin/Apuntes_Data_Science/blob/main/Etapa%201.%20%20Fundamentos%20de%20Python%20y%20EDA/D%C3%ADa_10_An%C3%A1lisis_exploratorio_con_dataset_mediano_Doctor_Who.ipynb): Exploración de un DataFrame mediano. Repaso de EDA básico y Práctica de visualizaciones con el DataFrame mediano
+
+*  [`Dia_11_Comparacion_de_tablas`](https://github.com/kumichin/Apuntes_Data_Science/blob/main/Etapa%201.%20%20Fundamentos%20de%20Python%20y%20EDA/D%C3%ADa_11_%E2%80%94_Comparacion_de_tablas.ipynb): Exploración y comparación de dos Datasets de mitólogia, con el fín de encontrar las diferencias entre ellas.
+
 ---
 
 ## ✅ Estado Actual: ¡Completado y Consolidado! ( Aunque esta etapa la he terminado, aún estoy en proceso de subir la totalidad de los apuntes)
