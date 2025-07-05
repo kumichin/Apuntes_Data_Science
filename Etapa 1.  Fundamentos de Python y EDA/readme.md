@@ -44,9 +44,11 @@ Aquí encontrarás los cuadernos organizados cronológicamente y por tema. Cada 
 
 * [`Dia_10_Análisis_exploratorio_con_dataset_mediano_Doctor_Who.ipynb`](https://github.com/kumichin/Apuntes_Data_Science/blob/main/Etapa%201.%20%20Fundamentos%20de%20Python%20y%20EDA/D%C3%ADa_10_An%C3%A1lisis_exploratorio_con_dataset_mediano_Doctor_Who.ipynb): Exploración de un DataFrame mediano. Repaso de EDA básico y Práctica de visualizaciones con el DataFrame mediano
 
-*  [`Dia_11_Comparacion_de_tablas.ipynb`](https://github.com/kumichin/Apuntes_Data_Science/blob/main/Etapa%201.%20%20Fundamentos%20de%20Python%20y%20EDA/D%C3%ADa_11_%E2%80%94_Comparacion_de_tablas.ipynb): Exploración y comparación de dos Datasets de mitólogia, con el fín de encontrar las diferencias entre ellas.
+* [`Dia_11_Comparacion_de_tablas.ipynb`](https://github.com/kumichin/Apuntes_Data_Science/blob/main/Etapa%201.%20%20Fundamentos%20de%20Python%20y%20EDA/D%C3%ADa_11_%E2%80%94_Comparacion_de_tablas.ipynb): Exploración y comparación de dos Datasets de mitólogia, con el fín de encontrar las diferencias entre ellas.
 
-*  [`Dia_12_Análisis_comparativo_con_tablas_pivot_y_groupby.ipynb `](https://github.com/kumichin/Apuntes_Data_Science/blob/main/Etapa%201.%20%20Fundamentos%20de%20Python%20y%20EDA/D%C3%ADa_12_Analisis_comparativo_con_tablas_pivot_y_groupby.ipynb): Análisis comparativo con la tabla que finalmente se decidió el día 11 y aplicación de `tablas pivot` y `groupby()`. Además se realizan algunas visualizaciones gráficas para seguir practicando `Matplolib` y `seaborn`
+* [`Dia_12_Análisis_comparativo_con_tablas_pivot_y_groupby.ipynb `](https://github.com/kumichin/Apuntes_Data_Science/blob/main/Etapa%201.%20%20Fundamentos%20de%20Python%20y%20EDA/D%C3%ADa_12_Analisis_comparativo_con_tablas_pivot_y_groupby.ipynb): Análisis comparativo con la tabla que finalmente se decidió el día 11 y aplicación de `tablas pivot` y `groupby()`. Además se realizan algunas visualizaciones gráficas para seguir practicando `Matplolib` y `seaborn`
+
+* [`Dia_13_NumPy.ipynb `](https://github.com/kumichin/Apuntes_Data_Science/blob/main/Etapa%201.%20%20Fundamentos%20de%20Python%20y%20EDA/D%C3%ADa_13_Numpy.ipynb): Aprendizaje de `NumPy`, para que sirve y sus funciones básicas
 
 ---
 
